@@ -1,0 +1,9 @@
+{
+  "name": "my-bot",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^8.17.0",
+    "express": "^4.18.2"
+  }
+}
